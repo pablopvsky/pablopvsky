@@ -1,6 +1,19 @@
-- 👋 Hi, I’m @pablopvsky
-- 👀 I’m interested in design and develop...
-- 🌱 I’m currently learning k8s...
+# Advertiser, Writer, Artist, Programmer. 
+I'm a publicist by profession, designer and programmer by passion
+Design and program in equipment
+work with an emphasis on problem solving
+through the method.
+
+## My Stack
+- Next JS
+- Fauna DB
+- Docker
+- Google Cloud Platform
+- Prismic io
+- Aura Design System (My own design system)
+
+## Notes
+- 🌱 I’m currently learning k8s and GCP...
 - 💞️ I’m looking to collaborate on https://github.com/garitma/aura-design-system...
 - 📫 How to reach me@pablopvsky.com...
 

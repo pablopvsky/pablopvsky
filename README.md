@@ -1,4 +1,4 @@
-# Advertiser, Writer, Artist, Programmer. 
+# Advertiser, Writer, Artist, Developer. 
 I'm a publicist by profession, designer and programmer by passion
 Design and program in equipment
 work with an emphasis on problem solving

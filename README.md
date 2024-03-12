@@ -6,7 +6,7 @@ through the method.
 
 ## My Stack
 - Next JS
-- Fauna DB
+- Fauna
 - Docker
 - Google Cloud Platform
 - Prismic io
